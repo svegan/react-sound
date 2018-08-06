@@ -21,7 +21,7 @@
   "homepage": "https://github.com/leoasis/react-sound",
   "dependencies": {
     "prop-types": "^15.5.7",
-    "soundmanager2": "^2.97.20170602"
+    "soundmanager2": "https://github.com/svegan/SoundManager2.git"
   },
   "peerDependencies": {
     "react": "^15.3.0 || ^16.0.0-0"
